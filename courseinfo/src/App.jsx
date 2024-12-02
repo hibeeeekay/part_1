@@ -1,6 +1,6 @@
-import Header from "./component/header";
-import Content from "./component/content";
-import Total from "./component/total";
+import Header from "../component/header";
+import Content from "../component/content";
+import Total from "../component/total";
 
 const App = () => {
   const course = {
