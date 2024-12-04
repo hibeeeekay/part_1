@@ -1,5 +1,5 @@
-import Header from "./component/header";
-import Statistics from "./component/statistics";
+import Header from "./header";
+import Statistics from "./statistics";
 import { useState } from "react";
 
 const App = () => {
